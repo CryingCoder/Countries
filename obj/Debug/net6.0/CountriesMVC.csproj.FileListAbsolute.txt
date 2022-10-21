@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\bin\Debug\net6.0\CountriesMVC.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\bin\Debug\net6.0\CountriesMVC.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\bin\Debug\net6.0\CountriesMVC.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\bin\Debug\net6.0\CountriesMVC.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\bin\Debug\net6.0\CountriesMVC.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\refint\CountriesMVC.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\CountriesMVC.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\CountriesMVC\obj\Debug\net6.0\ref\CountriesMVC.dll
